@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+
+}
+
+.container .navegacao {
+    background-color: orange;
+    height: 400px;
+}
+
+.container .outros .cabecalho {
+    background-color: cornflowerblue;
+    height: 70px;
+    width: 400px;
+}
+
+.container .outros .corpo {
+    display: flex;
+}
+
+.container .outros .corpo .conteudo {
+    background-color: blueviolet;
+    height: 260px;
+    width: 300px;
+}
+
+.container .outros .corpo .barra-lateral {
+    background-color: coral;
+    width: 100px;
+}
+
+.container .outros .rodape {
+    background-color: blue;
+    height: 70px;
+}
